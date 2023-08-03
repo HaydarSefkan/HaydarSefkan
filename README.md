@@ -1,1 +1,1 @@
-This is Haydar Sefkan Kayar. Currently a 1st year Software Engineering Student in Istanbul. 
+This is Haydar Sefkan Kayar. Currently a 2nd year Software Engineering Student in Istanbul. 
